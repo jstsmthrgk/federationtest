@@ -223,7 +223,7 @@
    {
      "name":"apiUrl",
      "type":"string",
-     "value":"https://play.aaaaaaaaaaaadventu.re"
+     "value":"https://pusher.workadventu.re/"
    },
         {
          "name":"script",
