@@ -220,6 +220,11 @@
      "type":"string",
      "value":"Starter kit"
    },
+   {
+     "name":"apiUrl",
+     "type":"string",
+     "value":"https://play.aaaaaaaaaaaadventu.re"
+   },
         {
          "name":"script",
          "type":"string",
